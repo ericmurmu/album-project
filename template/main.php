@@ -12,7 +12,5 @@
         $album_thumbnail = "album.php";
         include($album_thumbnail); 
         ?>
-    </div>
-    
-   
+    </div>       
 <?php include("footer.html"); ?>
